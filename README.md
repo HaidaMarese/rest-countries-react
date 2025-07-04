@@ -56,5 +56,14 @@ npm install
 npm run dev
 ```
 
+##  Reflection Document
+Building the REST Countries API project helped me improve my skills in React, Tailwind CSS, and API integration. I designed a clean, responsive layout with a search bar, region filter, and theme toggle (light/dark mode). Components like Navbar, SearchFilter, and CountryCard were created for better structure and reusability.
+
+A key challenge was getting the dark mode to work correctly. At first, toggling the theme had no visible effect. I fixed this by updating the Tailwind configuration to use darkMode: 'class', applying dark: utility classes in components, and syncing theme preference with localStorage. This allowed the app to remember the selected theme across refreshes.
+
+Styling the search input with an icon and maintaining a consistent design across screen sizes also took some iteration. Once resolved, the app looked clean and functional.
+
+In the future, I’d like to add a country detail page, loading indicators, and smooth transitions between themes. This project gave me great hands-on experience with context, styling, and API handling.
+
 ## License
 This project is licensed under the MIT License. Challenge inspired by Frontend Mentor.
