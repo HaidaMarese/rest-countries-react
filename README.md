@@ -16,6 +16,7 @@ A responsive and interactive web application built with **React**, integrating t
 ---
 
 ## Project Structure
+```
 src/
 ├── components/
 │   ├── CountryCard.jsx
@@ -29,14 +30,11 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+```
 
 ## Live Demo 
 
 
-##  Screenshot
-
-> UI inspired by Frontend Mentor challenge  
-![App Screenshot](./screenshot.png)
 
 ---
 
@@ -52,7 +50,7 @@ src/
 
 ## 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/rest-countries-app.git
+git clone https://github.com/HaidaMarese/rest-countries-react.git
 cd rest-countries-app
 npm install
 npm run dev
