@@ -1,6 +1,6 @@
 # 🌍 REST Countries API with Color Theme Switcher
 
-A responsive and interactive web application built with **React**, integrating the [REST Countries API](https://restcountries.com/v3.1/all). This app allows users to search, filter, and explore detailed information about countries worldwide  with a light/dark mode toggle.
+A responsive and interactive web application built with **React**, integrating the [REST Countries API](https://restcountries.com/). This app allows users to search, filter, and explore detailed information about countries worldwide  with a light/dark mode toggle.
 
 ---
 
